@@ -1,0 +1,9 @@
+# Ignore files:
+
+*.cfg.xml
+target
+*.class
+*.jar
+*.war
+*.ear
+
